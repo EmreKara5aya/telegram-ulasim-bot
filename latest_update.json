@@ -1,0 +1,69 @@
+{
+    "update_id": 207270824,
+    "callback_query": {
+        "id": "2766285121514951614",
+        "from": {
+            "id": 644075945,
+            "is_bot": false,
+            "first_name": "Emre",
+            "last_name": "Karakaya",
+            "username": "emrekara5aya",
+            "language_code": "tr",
+            "is_premium": true
+        },
+        "message": {
+            "message_id": 2461,
+            "from": {
+                "id": 8130150979,
+                "is_bot": true,
+                "first_name": "Mersin Ulaşım",
+                "username": "mersinulasimbot"
+            },
+            "chat": {
+                "id": 644075945,
+                "first_name": "Emre",
+                "last_name": "Karakaya",
+                "username": "emrekara5aya",
+                "type": "private"
+            },
+            "date": 1763658221,
+            "text": "📌 İniş noktası için kayıtlı yerler:",
+            "reply_markup": {
+                "inline_keyboard": [
+                    [
+                        {
+                            "text": "🏷 🏠 Ev",
+                            "callback_data": "places:use|destination|pl_29afb37c"
+                        }
+                    ],
+                    [
+                        {
+                            "text": "🏷 👨‍💼İş",
+                            "callback_data": "places:use|destination|pl_bddf305c"
+                        }
+                    ],
+                    [
+                        {
+                            "text": "🏷 🏫 Ezgi Üniversite",
+                            "callback_data": "places:use|destination|pl_7e34e108"
+                        }
+                    ],
+                    [
+                        {
+                            "text": "🏷 Göçmen",
+                            "callback_data": "places:use|destination|pl_fa72fc3b"
+                        }
+                    ],
+                    [
+                        {
+                            "text": "🏷 🏦Taş Bina",
+                            "callback_data": "places:use|destination|pl_8254c620"
+                        }
+                    ]
+                ]
+            }
+        },
+        "chat_instance": "-4267789437379838416",
+        "data": "places:use|destination|pl_bddf305c"
+    }
+}

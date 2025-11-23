@@ -1,0 +1,1714 @@
+{
+    "generated_at": "2025-09-23T16:07:04+00:00",
+    "count": 244,
+    "lines": [
+        {
+            "hat_no": "104",
+            "hat_yon": "D",
+            "hat_adi": "KARADUVAR - MAKİNE İKMAL - TAŞ BİNA - ŞEHİR HASTANESİ",
+            "bolge": "MERKEZ",
+            "post": "104-D"
+        },
+        {
+            "hat_no": "104",
+            "hat_yon": "G",
+            "hat_adi": "ŞEHİR HASTANESİ - TAŞ BİNA - MAKİNE İKMAL - KARADUVAR",
+            "bolge": "MERKEZ",
+            "post": "104-G"
+        },
+        {
+            "hat_no": "10M",
+            "hat_yon": "D",
+            "hat_adi": "TECE - ÇARŞI",
+            "bolge": "MERKEZ",
+            "post": "10M-D"
+        },
+        {
+            "hat_no": "10M",
+            "hat_yon": "G",
+            "hat_adi": "ÇARŞI - TECE",
+            "bolge": "MERKEZ",
+            "post": "10M-G"
+        },
+        {
+            "hat_no": "110",
+            "hat_yon": "D",
+            "hat_adi": "TARSUS - BAĞLARBAŞI - NACARLI",
+            "bolge": "TARSUS",
+            "post": "110-D"
+        },
+        {
+            "hat_no": "110",
+            "hat_yon": "G",
+            "hat_adi": "NACARLI - BAĞLARBAŞI - TARSUS",
+            "bolge": "TARSUS",
+            "post": "110-G"
+        },
+        {
+            "hat_no": "111",
+            "hat_yon": "D",
+            "hat_adi": "ADANALIOĞLU - ÇARŞI - TAŞ BİNA - ÜNİVERSİTE - STADYUM",
+            "bolge": "MERKEZ",
+            "post": "111-D"
+        },
+        {
+            "hat_no": "111",
+            "hat_yon": "G",
+            "hat_adi": "STADYUM - ÜNİVERSİTE - TAŞ BİNA - ÇARŞI - ADANALIOĞLU",
+            "bolge": "MERKEZ",
+            "post": "111-G"
+        },
+        {
+            "hat_no": "113",
+            "hat_yon": "D",
+            "hat_adi": "DEMİRHİSAR -ÇARŞI- MEŞOT",
+            "bolge": "MERKEZ",
+            "post": "113-D"
+        },
+        {
+            "hat_no": "113",
+            "hat_yon": "G",
+            "hat_adi": "MEŞOT - ÇARŞI-DEMİRHİSAR",
+            "bolge": "MERKEZ",
+            "post": "113-G"
+        },
+        {
+            "hat_no": "114",
+            "hat_yon": "D",
+            "hat_adi": "YANPAR - BURHAN - KÜRKÇÜ - ÇARŞI - MEŞOT",
+            "bolge": "KÖYLER",
+            "post": "114-D"
+        },
+        {
+            "hat_no": "114",
+            "hat_yon": "G",
+            "hat_adi": "MEŞOT - ÇARŞI - KÜRKÇÜ - BURHAN - YANPAR",
+            "bolge": "KÖYLER",
+            "post": "114-G"
+        },
+        {
+            "hat_no": "115",
+            "hat_yon": "D",
+            "hat_adi": "ESENLİ -  (DİKİLİTAŞ) HEBİLLİ - ÇARŞI - MEŞOT",
+            "bolge": "KÖYLER",
+            "post": "115-D"
+        },
+        {
+            "hat_no": "115",
+            "hat_yon": "G",
+            "hat_adi": "MEŞOT - ÇARŞI - ESENLİ - HEBİLLİ (DİKİLİTAŞ)",
+            "bolge": "KÖYLER",
+            "post": "115-G"
+        },
+        {
+            "hat_no": "116",
+            "hat_yon": "D",
+            "hat_adi": "UZUNKAŞ - DEĞİRMENÇAY - MEŞOT",
+            "bolge": "KÖYLER",
+            "post": "116-D"
+        },
+        {
+            "hat_no": "116",
+            "hat_yon": "G",
+            "hat_adi": "MEŞOT - DEĞİRMENÇAY - UZUNKAŞ",
+            "bolge": "KÖYLER",
+            "post": "116-G"
+        },
+        {
+            "hat_no": "118",
+            "hat_yon": "D",
+            "hat_adi": "AYVAGEDİĞİ - KARACAİLYAS",
+            "bolge": "KÖYLER",
+            "post": "118-D"
+        },
+        {
+            "hat_no": "118",
+            "hat_yon": "G",
+            "hat_adi": "KARACAİLYAS - AYVAGEDİĞİ",
+            "bolge": "KÖYLER",
+            "post": "118-G"
+        },
+        {
+            "hat_no": "11M",
+            "hat_yon": "D",
+            "hat_adi": "STADYUM - AMATEM - ÜNİVERSİTE - ÇARŞI - MEŞOT",
+            "bolge": "MERKEZ",
+            "post": "11M-D"
+        },
+        {
+            "hat_no": "11M",
+            "hat_yon": "G",
+            "hat_adi": "MEŞOT - ÇARŞI - ÜNİVERSİTE - AMATEM - STADYUM",
+            "bolge": "MERKEZ",
+            "post": "11M-G"
+        },
+        {
+            "hat_no": "121",
+            "hat_yon": "D",
+            "hat_adi": "KAZANLI - MAKİNE İKMAL - TAŞ BİNA - ÜNİVERSİTE - STADYUM",
+            "bolge": "MERKEZ",
+            "post": "121-D"
+        },
+        {
+            "hat_no": "121",
+            "hat_yon": "G",
+            "hat_adi": "STADYUM - ÜNİVERSİTE - TAŞ BİNA - MAKİNE İKMAL - KAZANLI",
+            "bolge": "MERKEZ",
+            "post": "121-G"
+        },
+        {
+            "hat_no": "122",
+            "hat_yon": "D",
+            "hat_adi": "BAĞCILAR - TAŞKENT - ÇARŞI - MEŞOT",
+            "bolge": "KÖYLER",
+            "post": "122-D"
+        },
+        {
+            "hat_no": "122",
+            "hat_yon": "G",
+            "hat_adi": "MEŞOT - ÇARŞI - TAŞKENT - BAĞCILAR",
+            "bolge": "KÖYLER",
+            "post": "122-G"
+        },
+        {
+            "hat_no": "123",
+            "hat_yon": "D",
+            "hat_adi": "SOĞUCAK - ÇARŞI",
+            "bolge": "KÖYLER",
+            "post": "123-D"
+        },
+        {
+            "hat_no": "123",
+            "hat_yon": "G",
+            "hat_adi": "ÇARŞI - SOĞUCAK",
+            "bolge": "KÖYLER",
+            "post": "123-G"
+        },
+        {
+            "hat_no": "124",
+            "hat_yon": "D",
+            "hat_adi": "KEPİRLİ - ÇARŞI",
+            "bolge": "KÖYLER",
+            "post": "124-D"
+        },
+        {
+            "hat_no": "124",
+            "hat_yon": "G",
+            "hat_adi": "ÇARŞI - KEPİRLİ",
+            "bolge": "KÖYLER",
+            "post": "124-G"
+        },
+        {
+            "hat_no": "12M",
+            "hat_yon": "D",
+            "hat_adi": "STADYUM - AMATEM - AFET - ÇARŞI - Ş.HASTANESİ - MEŞOT",
+            "bolge": "MERKEZ",
+            "post": "12M-D"
+        },
+        {
+            "hat_no": "12M",
+            "hat_yon": "G",
+            "hat_adi": "MEŞOT - ŞEHİR HASTANESİ - ÇARŞI - AFET - AMATEM - STADYUM",
+            "bolge": "MERKEZ",
+            "post": "12M-G"
+        },
+        {
+            "hat_no": "131",
+            "hat_yon": "D",
+            "hat_adi": "HOMURLU - TAŞ BİNA - ZEYTİNKENT-KOCAVİLAYET",
+            "bolge": "MERKEZ",
+            "post": "131-D"
+        },
+        {
+            "hat_no": "131",
+            "hat_yon": "G",
+            "hat_adi": "KOCAVİLAYET-ZEYTİNKENT - TAŞ BİNA - HOMURLU",
+            "bolge": "MERKEZ",
+            "post": "131-G"
+        },
+        {
+            "hat_no": "137",
+            "hat_yon": "D",
+            "hat_adi": "TEKİROLUK - KARACAİLYAS",
+            "bolge": "KÖYLER",
+            "post": "137-D"
+        },
+        {
+            "hat_no": "137",
+            "hat_yon": "G",
+            "hat_adi": "KARACAİLYAS - TEKİROLUK",
+            "bolge": "KÖYLER",
+            "post": "137-G"
+        },
+        {
+            "hat_no": "138",
+            "hat_yon": "D",
+            "hat_adi": "PARMAKKURDU - DEMİRHİSAR - ÇARŞI - MEŞOT",
+            "bolge": "KÖYLER",
+            "post": "138-D"
+        },
+        {
+            "hat_no": "138",
+            "hat_yon": "G",
+            "hat_adi": "MEŞOT - ÇARŞI - DEMİRHİSAR - PARMAKKURDU",
+            "bolge": "KÖYLER",
+            "post": "138-G"
+        },
+        {
+            "hat_no": "139",
+            "hat_yon": "D",
+            "hat_adi": "KUZUCUBELEN - AKARCA -  ÇARŞI - MEŞOT",
+            "bolge": "KÖYLER",
+            "post": "139-D"
+        },
+        {
+            "hat_no": "139",
+            "hat_yon": "G",
+            "hat_adi": "MEŞOT - ÇARŞI - AKARCA - KUZUCUBELEN",
+            "bolge": "KÖYLER",
+            "post": "139-G"
+        },
+        {
+            "hat_no": "13M",
+            "hat_yon": "D",
+            "hat_adi": "ARPAÇ SAKARLAR - ŞEHİR HASTANESİ - KOCAVİLAYET - STADYUM",
+            "bolge": "MERKEZ",
+            "post": "13M-D"
+        },
+        {
+            "hat_no": "13M",
+            "hat_yon": "G",
+            "hat_adi": "STADYUM - KOCAVİLAYET - ŞEHİR HASTANESİ - ARPAÇ SAKARLAR",
+            "bolge": "MERKEZ",
+            "post": "13M-G"
+        },
+        {
+            "hat_no": "140",
+            "hat_yon": "D",
+            "hat_adi": "ÇUKURKEŞLİK - ÇARŞI",
+            "bolge": "KÖYLER",
+            "post": "140-D"
+        },
+        {
+            "hat_no": "140",
+            "hat_yon": "G",
+            "hat_adi": "ÇARŞI - ÇUKURKEŞLİK",
+            "bolge": "KÖYLER",
+            "post": "140-G"
+        },
+        {
+            "hat_no": "141",
+            "hat_yon": "D",
+            "hat_adi": "ARIKLI - ÇAĞ ÜNİVERSİTESİ - TAŞ BİNA - MAKİNE İKMAL",
+            "bolge": "MERKEZ",
+            "post": "141-D"
+        },
+        {
+            "hat_no": "141",
+            "hat_yon": "G",
+            "hat_adi": "MAKİNE İKMAL - TAŞ BİNA - ÇAĞ ÜNİVERSİTESİ - ARIKLI",
+            "bolge": "MERKEZ",
+            "post": "141-G"
+        },
+        {
+            "hat_no": "142",
+            "hat_yon": "D",
+            "hat_adi": "ÇELEBİLİ - MUSALI - KARACAİLYAS",
+            "bolge": "KÖYLER",
+            "post": "142-D"
+        },
+        {
+            "hat_no": "142",
+            "hat_yon": "G",
+            "hat_adi": "KARACAİLYAS - MUSALI - ÇELEBİLİ",
+            "bolge": "KÖYLER",
+            "post": "142-G"
+        },
+        {
+            "hat_no": "143",
+            "hat_yon": "D",
+            "hat_adi": "İNSU - ÇARŞI",
+            "bolge": "KÖYLER",
+            "post": "143-D"
+        },
+        {
+            "hat_no": "143",
+            "hat_yon": "G",
+            "hat_adi": "ÇARŞI - İNSU",
+            "bolge": "KÖYLER",
+            "post": "143-G"
+        },
+        {
+            "hat_no": "145",
+            "hat_yon": "D",
+            "hat_adi": "TAKANLI - ÇARŞI - MEŞOT",
+            "bolge": "KÖYLER",
+            "post": "145-D"
+        },
+        {
+            "hat_no": "145",
+            "hat_yon": "G",
+            "hat_adi": "MEŞOT - ÇARŞI - TAKANLI",
+            "bolge": "KÖYLER",
+            "post": "145-G"
+        },
+        {
+            "hat_no": "146",
+            "hat_yon": "D",
+            "hat_adi": "KAYRAKKEŞLİ - ÇARŞI",
+            "bolge": "KÖYLER",
+            "post": "146-D"
+        },
+        {
+            "hat_no": "146",
+            "hat_yon": "G",
+            "hat_adi": "ÇARŞI - KAYRAKKEŞLİ",
+            "bolge": "KÖYLER",
+            "post": "146-G"
+        },
+        {
+            "hat_no": "149",
+            "hat_yon": "D",
+            "hat_adi": "MEHRİCAN - ÇARŞI - MEŞOT",
+            "bolge": "KÖYLER",
+            "post": "149-D"
+        },
+        {
+            "hat_no": "149",
+            "hat_yon": "G",
+            "hat_adi": "MEŞOT - ÇARŞI - MEHRİCAN",
+            "bolge": "KÖYLER",
+            "post": "149-G"
+        },
+        {
+            "hat_no": "150",
+            "hat_yon": "D",
+            "hat_adi": "TURUNÇLU - BOZÖN - ÇARŞI - MEŞOT",
+            "bolge": "KÖYLER",
+            "post": "150-D"
+        },
+        {
+            "hat_no": "150",
+            "hat_yon": "G",
+            "hat_adi": "MEŞOT - ÇARŞI - BOZÖN - TURUNÇLU",
+            "bolge": "KÖYLER",
+            "post": "150-G"
+        },
+        {
+            "hat_no": "153",
+            "hat_yon": "D",
+            "hat_adi": "DOĞULU - DAVULTEPE - TECE",
+            "bolge": "KÖYLER",
+            "post": "153-D"
+        },
+        {
+            "hat_no": "153",
+            "hat_yon": "G",
+            "hat_adi": "TECE - DAVULTEPE - DOĞULU",
+            "bolge": "KÖYLER",
+            "post": "153-G"
+        },
+        {
+            "hat_no": "154",
+            "hat_yon": "D",
+            "hat_adi": "TEPEKÖY - ÇARŞI - MEŞOT",
+            "bolge": "KÖYLER",
+            "post": "154-D"
+        },
+        {
+            "hat_no": "154",
+            "hat_yon": "G",
+            "hat_adi": "MEŞOT - ÇARŞI - TEPEKÖY",
+            "bolge": "KÖYLER",
+            "post": "154-G"
+        },
+        {
+            "hat_no": "156",
+            "hat_yon": "D",
+            "hat_adi": "KUMKUYU - ERDEMLİ - ÇARŞI",
+            "bolge": "MERKEZ",
+            "post": "156-D"
+        },
+        {
+            "hat_no": "156",
+            "hat_yon": "G",
+            "hat_adi": "ÇARŞI - ERDEMLİ - KUMKUYU",
+            "bolge": "MERKEZ",
+            "post": "156-G"
+        },
+        {
+            "hat_no": "157",
+            "hat_yon": "D",
+            "hat_adi": "ALANYALI - DEGİRMENDERE-ÇARŞI-KARACAİLYAS",
+            "bolge": "KÖYLER",
+            "post": "157-D"
+        },
+        {
+            "hat_no": "157",
+            "hat_yon": "G",
+            "hat_adi": "KARACAİLYAS-DEĞİRMENDERE-ALANYALI",
+            "bolge": "KÖYLER",
+            "post": "157-G"
+        },
+        {
+            "hat_no": "158",
+            "hat_yon": "D",
+            "hat_adi": "ÇATAK - ARSLANKÖY - ÇARŞI-KARACAİLYAS",
+            "bolge": "KÖYLER",
+            "post": "158-D"
+        },
+        {
+            "hat_no": "158",
+            "hat_yon": "G",
+            "hat_adi": "KARACAİLYAS - ARSLANKÖY - ÇATAK",
+            "bolge": "KÖYLER",
+            "post": "158-G"
+        },
+        {
+            "hat_no": "159",
+            "hat_yon": "D",
+            "hat_adi": "GÜZELYAYLA - ÇARŞI",
+            "bolge": "KÖYLER",
+            "post": "159-D"
+        },
+        {
+            "hat_no": "159",
+            "hat_yon": "G",
+            "hat_adi": "ÇARŞI - GÜZELYAYLA",
+            "bolge": "KÖYLER",
+            "post": "159-G"
+        },
+        {
+            "hat_no": "15M",
+            "hat_yon": "D",
+            "hat_adi": "ŞEHİR HASTANESİ - MEŞOT - AKBELEN - TIRMIL - YEŞİLÇİMEN",
+            "bolge": "MERKEZ",
+            "post": "15M-D"
+        },
+        {
+            "hat_no": "15M",
+            "hat_yon": "G",
+            "hat_adi": "YEŞİLÇİMEN - TIRMIL - AKBELEN - MEŞOT - ŞEHİR HASTANESİ",
+            "bolge": "MERKEZ",
+            "post": "15M-G"
+        },
+        {
+            "hat_no": "161",
+            "hat_yon": "D",
+            "hat_adi": "ATLILAR (TIRTAR - DEĞNEK) - ÇARŞI-KARACAİLYAS",
+            "bolge": "KÖYLER",
+            "post": "161-D"
+        },
+        {
+            "hat_no": "161",
+            "hat_yon": "G",
+            "hat_adi": "KARACAİLYAS-ÇARŞI - ATLILAR (TIRTAR - DEĞNEK)",
+            "bolge": "KÖYLER",
+            "post": "161-G"
+        },
+        {
+            "hat_no": "162",
+            "hat_yon": "D",
+            "hat_adi": "YEŞİLOVA - CİVANYAYLA - ÇARŞI - MEŞOT",
+            "bolge": "KÖYLER",
+            "post": "162-D"
+        },
+        {
+            "hat_no": "162",
+            "hat_yon": "G",
+            "hat_adi": "MEŞOT - ÇARŞI - CİVANYAYLA - YEŞİLOVA",
+            "bolge": "KÖYLER",
+            "post": "162-G"
+        },
+        {
+            "hat_no": "163",
+            "hat_yon": "D",
+            "hat_adi": "DEMİRIŞIK - ÇAĞLARCA - ÇARŞI",
+            "bolge": "KÖYLER",
+            "post": "163-D"
+        },
+        {
+            "hat_no": "163",
+            "hat_yon": "G",
+            "hat_adi": "ÇARŞI - ÇAĞLARCA - DEMİRIŞIK",
+            "bolge": "KÖYLER",
+            "post": "163-G"
+        },
+        {
+            "hat_no": "165",
+            "hat_yon": "D",
+            "hat_adi": "CİVANYAYLA - ÇARŞI - MEŞOT",
+            "bolge": "KÖYLER",
+            "post": "165-D"
+        },
+        {
+            "hat_no": "165",
+            "hat_yon": "G",
+            "hat_adi": "MEŞOT - ÇARŞI - CİVANYAYLA",
+            "bolge": "KÖYLER",
+            "post": "165-G"
+        },
+        {
+            "hat_no": "166",
+            "hat_yon": "D",
+            "hat_adi": "BÖĞRÜEĞRİ - AYVAGEDİĞİ",
+            "bolge": "KÖYLER",
+            "post": "166-D"
+        },
+        {
+            "hat_no": "166",
+            "hat_yon": "G",
+            "hat_adi": "AYVAGEDİĞİ - BÖĞRÜEĞRİ",
+            "bolge": "KÖYLER",
+            "post": "166-G"
+        },
+        {
+            "hat_no": "167",
+            "hat_yon": "D",
+            "hat_adi": "KOCAYER - KUZUCU - ÇARŞI - MEŞOT",
+            "bolge": "KÖYLER",
+            "post": "167-D"
+        },
+        {
+            "hat_no": "167",
+            "hat_yon": "G",
+            "hat_adi": "MEŞOT - ÇARŞI - KUZUCU - KOCAYER",
+            "bolge": "KÖYLER",
+            "post": "167-G"
+        },
+        {
+            "hat_no": "170",
+            "hat_yon": "D",
+            "hat_adi": "TAŞUCU - GMK - AKBELEN  - MEŞOT",
+            "bolge": "MERKEZ",
+            "post": "170-D"
+        },
+        {
+            "hat_no": "170",
+            "hat_yon": "G",
+            "hat_adi": "MEŞOT - AKBELEN - GMK - TAŞUCU",
+            "bolge": "MERKEZ",
+            "post": "170-G"
+        },
+        {
+            "hat_no": "172",
+            "hat_yon": "D",
+            "hat_adi": "AYDINCIK - TAŞUCU - SİLİFKE",
+            "bolge": "MERKEZ",
+            "post": "172-D"
+        },
+        {
+            "hat_no": "172",
+            "hat_yon": "G",
+            "hat_adi": "SİLİFKE - TAŞUCU - AYDINCIK",
+            "bolge": "MERKEZ",
+            "post": "172-G"
+        },
+        {
+            "hat_no": "173",
+            "hat_yon": "D",
+            "hat_adi": "ÇİFTEPINAR - ÇARŞI - MEŞOT",
+            "bolge": "KÖYLER",
+            "post": "173-D"
+        },
+        {
+            "hat_no": "173",
+            "hat_yon": "G",
+            "hat_adi": "MEŞOT - ÇARŞI - ÇİFTEPINAR",
+            "bolge": "KÖYLER",
+            "post": "173-G"
+        },
+        {
+            "hat_no": "174",
+            "hat_yon": "D",
+            "hat_adi": "AVGADI-ERDEMLİ",
+            "bolge": "KÖYLER",
+            "post": "174-D"
+        },
+        {
+            "hat_no": "174",
+            "hat_yon": "G",
+            "hat_adi": "ERDEMLİ - AVGADI",
+            "bolge": "KÖYLER",
+            "post": "174-G"
+        },
+        {
+            "hat_no": "177",
+            "hat_yon": "D",
+            "hat_adi": "ERDEMLİ - ÜNİVERSİTE - ŞEHİR HAST.",
+            "bolge": "MERKEZ",
+            "post": "177-D"
+        },
+        {
+            "hat_no": "177",
+            "hat_yon": "G",
+            "hat_adi": "ŞEHİR HASTANESİ - ÜNİVERSİTE - ERDEMLİ",
+            "bolge": "MERKEZ",
+            "post": "177-G"
+        },
+        {
+            "hat_no": "18M",
+            "hat_yon": "D",
+            "hat_adi": "GÜNEYKENT POSTANESİ - ŞEHİR HASTANESİ - ÇAVUŞLU - ÇARŞI",
+            "bolge": "MERKEZ",
+            "post": "18M-D"
+        },
+        {
+            "hat_no": "18M",
+            "hat_yon": "G",
+            "hat_adi": "ÇARŞI - ÇAVUŞLU - ŞEHİR HASTANESİ - GÜNEYKENT POSTANESİ",
+            "bolge": "MERKEZ",
+            "post": "18M-G"
+        },
+        {
+            "hat_no": "19M",
+            "hat_yon": "D",
+            "hat_adi": "TIP FAKÜLTESİ - ZEYTİNKENT - ÖZGÜRLÜK (TIRMIL)",
+            "bolge": "MERKEZ",
+            "post": "19M-D"
+        },
+        {
+            "hat_no": "19M",
+            "hat_yon": "G",
+            "hat_adi": "ÖZGÜRLÜK (TIRMIL)- ZEYTİNKENT - TIP FAKÜLTESİ",
+            "bolge": "MERKEZ",
+            "post": "19M-G"
+        },
+        {
+            "hat_no": "201",
+            "hat_yon": "D",
+            "hat_adi": "KIRKLARSIRTI-YARBAY ŞEMSETTİN",
+            "bolge": "TARSUS",
+            "post": "201-D"
+        },
+        {
+            "hat_no": "201",
+            "hat_yon": "G",
+            "hat_adi": "YARBAY ŞEMSETTİN - KIRKLARSIRTI",
+            "bolge": "TARSUS",
+            "post": "201-G"
+        },
+        {
+            "hat_no": "202",
+            "hat_yon": "D",
+            "hat_adi": "KONAK - ERGENEKON - ALTAYLILAR - BOYA",
+            "bolge": "TARSUS",
+            "post": "202-D"
+        },
+        {
+            "hat_no": "202",
+            "hat_yon": "G",
+            "hat_adi": "BOYA - TARSU -  KIRKLARSIRTI - KONAK",
+            "bolge": "TARSUS",
+            "post": "202-G"
+        },
+        {
+            "hat_no": "206",
+            "hat_yon": "D",
+            "hat_adi": "ATATÜRK MAHALLESİ- YAŞAR YÜZBAŞI CADDESİ- KIRKLARSIRTI - SSK- OTOGAR",
+            "bolge": "TARSUS",
+            "post": "206-D"
+        },
+        {
+            "hat_no": "206",
+            "hat_yon": "G",
+            "hat_adi": "OTOGAR-SSK - KIRKLARSIRTI - YAŞAR YÜZBAŞI CADDESİ- ATATÜRK MAHALLESİ",
+            "bolge": "TARSUS",
+            "post": "206-G"
+        },
+        {
+            "hat_no": "207",
+            "hat_yon": "D",
+            "hat_adi": "KONAK - YÜZBAŞI YAŞAR CAD. - ŞEHİT İSHAK - YENİ ŞEHİR HAST. - OTOGAR",
+            "bolge": "TARSUS",
+            "post": "207-D"
+        },
+        {
+            "hat_no": "207",
+            "hat_yon": "G",
+            "hat_adi": "OTOGAR - YENİŞEHİR HAST.- ŞEHİT İSHAK - YÜZBAŞI YAŞAR CAD. - KONAK",
+            "bolge": "TARSUS",
+            "post": "207-G"
+        },
+        {
+            "hat_no": "208",
+            "hat_yon": "D",
+            "hat_adi": "HAYVAN PARKI- AKDENİZ - ŞEHİTİSHAK - YENİ HAST. - OTOGAR",
+            "bolge": "TARSUS",
+            "post": "208-D"
+        },
+        {
+            "hat_no": "208",
+            "hat_yon": "G",
+            "hat_adi": "OTOGAR- YENİ HAST. -ŞEHİTİSHAK - AKDENİZ- HAYVAN PARKI",
+            "bolge": "TARSUS",
+            "post": "208-G"
+        },
+        {
+            "hat_no": "20M",
+            "hat_yon": "D",
+            "hat_adi": "ARPAÇ - ÇARŞI - KARACAİLYAS",
+            "bolge": "MERKEZ",
+            "post": "20M-D"
+        },
+        {
+            "hat_no": "20M",
+            "hat_yon": "G",
+            "hat_adi": "KARACAİLYAS - ÇARŞI - ARPAÇ",
+            "bolge": "MERKEZ",
+            "post": "20M-G"
+        },
+        {
+            "hat_no": "214",
+            "hat_yon": "D",
+            "hat_adi": "KURBANLI-SAĞLIKLI-KAYADİBİ-OTOGAR - ÜNİVERSİTE",
+            "bolge": "TARSUS",
+            "post": "214-D"
+        },
+        {
+            "hat_no": "214",
+            "hat_yon": "G",
+            "hat_adi": "ÜNİVERSİTE - OTOGAR-KAYADİBİ-SAGLIKLI-KURBANLI",
+            "bolge": "TARSUS",
+            "post": "214-G"
+        },
+        {
+            "hat_no": "216",
+            "hat_yon": "D",
+            "hat_adi": "MANTAŞ - YEŞİLEVLER - YEŞİLYURT",
+            "bolge": "TARSUS",
+            "post": "216-D"
+        },
+        {
+            "hat_no": "216",
+            "hat_yon": "G",
+            "hat_adi": "YEŞİLYURT - MANTAŞ",
+            "bolge": "TARSUS",
+            "post": "216-G"
+        },
+        {
+            "hat_no": "217",
+            "hat_yon": "D",
+            "hat_adi": "GÜLEK - TARSUS",
+            "bolge": "TARSUS",
+            "post": "217-D"
+        },
+        {
+            "hat_no": "217",
+            "hat_yon": "G",
+            "hat_adi": "TARSUS - GÜLEK",
+            "bolge": "TARSUS",
+            "post": "217-G"
+        },
+        {
+            "hat_no": "218",
+            "hat_yon": "D",
+            "hat_adi": "YUNUS EMRE- BARBAROS-GİRNE- YENİ HAST. - ŞAHİN MAHALLESİ- OTOGAR",
+            "bolge": "TARSUS",
+            "post": "218-D"
+        },
+        {
+            "hat_no": "218",
+            "hat_yon": "G",
+            "hat_adi": "OTOGAR- ŞAHİN MAHALLESİ - YENİ HAST. -GİRNE- BARBAROS- YUNUS EMRE MAHALLESİ",
+            "bolge": "TARSUS",
+            "post": "218-G"
+        },
+        {
+            "hat_no": "219",
+            "hat_yon": "D",
+            "hat_adi": "SIRAKÖY - ÇEVRELİ - TARSUS",
+            "bolge": "TARSUS",
+            "post": "219-D"
+        },
+        {
+            "hat_no": "219",
+            "hat_yon": "G",
+            "hat_adi": "TAŞTİ- ÇEVRELİ - SIRAKÖY",
+            "bolge": "TARSUS",
+            "post": "219-G"
+        },
+        {
+            "hat_no": "21",
+            "hat_yon": "D",
+            "hat_adi": "BAĞLARBARŞI - 2. ÇEVRE YOLU - VİPOL",
+            "bolge": "MERKEZ",
+            "post": "21-D"
+        },
+        {
+            "hat_no": "21",
+            "hat_yon": "G",
+            "hat_adi": "VİPOL -2. ÇEVRE YOLU - BAĞLARBAŞI",
+            "bolge": "MERKEZ",
+            "post": "21-G"
+        },
+        {
+            "hat_no": "221",
+            "hat_yon": "D",
+            "hat_adi": "ÜNİVERSİTE -MAKAM-OTOGAR",
+            "bolge": "TARSUS",
+            "post": "221-D"
+        },
+        {
+            "hat_no": "221",
+            "hat_yon": "G",
+            "hat_adi": "OTOGAR-MAKAM-ÜNİVERSİTE",
+            "bolge": "TARSUS",
+            "post": "221-G"
+        },
+        {
+            "hat_no": "222",
+            "hat_yon": "D",
+            "hat_adi": "ÜNİVERSİTE - ÇAĞLAYAN - YENİ ŞEHİR HAST. - TAŞTİ",
+            "bolge": "TARSUS",
+            "post": "222-D"
+        },
+        {
+            "hat_no": "222",
+            "hat_yon": "G",
+            "hat_adi": "TAŞTİ - ŞEHİR HAST. - ÇAĞLAYAN - ÜNİVERSİTE",
+            "bolge": "TARSUS",
+            "post": "222-G"
+        },
+        {
+            "hat_no": "223",
+            "hat_yon": "D",
+            "hat_adi": "ÜNİVERSİTE- ŞELALE- DEĞİŞİM KOLEJİ- KASIM EKENLER T.M.L",
+            "bolge": "TARSUS",
+            "post": "223-D"
+        },
+        {
+            "hat_no": "223",
+            "hat_yon": "G",
+            "hat_adi": "KASIM EKENLER T.M.L. -DEĞİŞİM KOLEJİ-ŞELALE-ÜNİVERSİTE",
+            "bolge": "TARSUS",
+            "post": "223-G"
+        },
+        {
+            "hat_no": "224",
+            "hat_yon": "D",
+            "hat_adi": "ATATÜRK MAHALLESİ- ERGENEKON- YENİŞEHİR HAST.- OTOGAR",
+            "bolge": "TARSUS",
+            "post": "224-D"
+        },
+        {
+            "hat_no": "224",
+            "hat_yon": "G",
+            "hat_adi": "OTOGAR - YENİŞEHİR HAST.- ERGENEKON - ATATÜRK MAHALLESİ",
+            "bolge": "TARSUS",
+            "post": "224-G"
+        },
+        {
+            "hat_no": "226",
+            "hat_yon": "D",
+            "hat_adi": "BOLATLI - FAHRETTİN PAŞA - SSK - MİTHATPAŞA - GAZİPAŞA",
+            "bolge": "TARSUS",
+            "post": "226-D"
+        },
+        {
+            "hat_no": "226",
+            "hat_yon": "G",
+            "hat_adi": "GAZİPAŞA-MİTHATPAŞA-SSK-FAHRETTİN PAŞA-BOLATLI",
+            "bolge": "TARSUS",
+            "post": "226-G"
+        },
+        {
+            "hat_no": "227",
+            "hat_yon": "D",
+            "hat_adi": "ALTAYLILAR MAH - ANIT - SSK - FERAHİM ŞALVUZ",
+            "bolge": "TARSUS",
+            "post": "227-D"
+        },
+        {
+            "hat_no": "227",
+            "hat_yon": "G",
+            "hat_adi": "FERAHİM ŞALVUZ - SSK - ANIT - ALTAYLILAR MAH",
+            "bolge": "TARSUS",
+            "post": "227-G"
+        },
+        {
+            "hat_no": "22M",
+            "hat_yon": "D",
+            "hat_adi": "STADYUM - ÇARŞI - MEŞOT",
+            "bolge": "MERKEZ",
+            "post": "22M-D"
+        },
+        {
+            "hat_no": "22M",
+            "hat_yon": "G",
+            "hat_adi": "MEŞOT - ÇARŞI - STADYUM",
+            "bolge": "MERKEZ",
+            "post": "22M-G"
+        },
+        {
+            "hat_no": "230",
+            "hat_yon": "D",
+            "hat_adi": "TAKBAŞ - ATATÜRK MAHALLESİ - YENİ HAST. - OTOGAR",
+            "bolge": "TARSUS",
+            "post": "230-D"
+        },
+        {
+            "hat_no": "230",
+            "hat_yon": "G",
+            "hat_adi": "OTOGAR - YENİ HAST. - ATATÜRK MAHALLESİ - TAKBAŞ",
+            "bolge": "TARSUS",
+            "post": "230-G"
+        },
+        {
+            "hat_no": "232",
+            "hat_yon": "D",
+            "hat_adi": "KERİMLER-SAYKÖY-TAŞKUYU-DEDELER-ESHABI KEHF-TAŞTİ",
+            "bolge": "TARSUS",
+            "post": "232-D"
+        },
+        {
+            "hat_no": "232",
+            "hat_yon": "G",
+            "hat_adi": "TAŞTİ-ESHABI KEHF-DEDELER-TAŞKUYU-SAYKÖY-KERİMLER",
+            "bolge": "TARSUS",
+            "post": "232-G"
+        },
+        {
+            "hat_no": "233",
+            "hat_yon": "D",
+            "hat_adi": "BOZTEPE-BÖGRÜEĞRİ-DORAK-TEPEKÖY-TAŞTİ",
+            "bolge": "TARSUS",
+            "post": "233-D"
+        },
+        {
+            "hat_no": "233",
+            "hat_yon": "G",
+            "hat_adi": "TAŞTİ-TEPEKÖY-DORAK-BÖĞRÜEĞRİ-BOZTEPE",
+            "bolge": "TARSUS",
+            "post": "233-G"
+        },
+        {
+            "hat_no": "234",
+            "hat_yon": "D",
+            "hat_adi": "YENİÇAY - HASANAĞA  - ALİAĞA  - ALİEFENDİ  - TAŞTİ",
+            "bolge": "TARSUS",
+            "post": "234-D"
+        },
+        {
+            "hat_no": "234",
+            "hat_yon": "G",
+            "hat_adi": "TAŞTİ - ALİEFENDİ - ALİAĞA - HASANAĞA - YENİÇAY",
+            "bolge": "TARSUS",
+            "post": "234-G"
+        },
+        {
+            "hat_no": "235",
+            "hat_yon": "D",
+            "hat_adi": "BAHARLI-ÇAYBOYU-AGZIDELİK-ÜZÜMLÜ KAVŞAK",
+            "bolge": "TARSUS",
+            "post": "235-D"
+        },
+        {
+            "hat_no": "235",
+            "hat_yon": "G",
+            "hat_adi": "ÜZÜMLÜ KAVŞAK-AGZIDELİK-ÇAYBOYU-BAHARLI",
+            "bolge": "TARSUS",
+            "post": "235-G"
+        },
+        {
+            "hat_no": "236",
+            "hat_yon": "D",
+            "hat_adi": "KARAÇERÇİLİ - ÇAĞBAŞI - TAŞTİ - ÜZÜM",
+            "bolge": "TARSUS",
+            "post": "236-D"
+        },
+        {
+            "hat_no": "236",
+            "hat_yon": "G",
+            "hat_adi": "ÜZÜM - TAŞTİ - ÇAĞBAŞI - KARAÇERÇİLİ",
+            "bolge": "TARSUS",
+            "post": "236-G"
+        },
+        {
+            "hat_no": "23M",
+            "hat_yon": "D",
+            "hat_adi": "STADYUM - ÇAVUŞLU - ŞEHİR HASTANESİ",
+            "bolge": "MERKEZ",
+            "post": "23M-D"
+        },
+        {
+            "hat_no": "23M",
+            "hat_yon": "G",
+            "hat_adi": "ŞEHİR HASTANESİ - ÇAVUŞLU - STADYUM",
+            "bolge": "MERKEZ",
+            "post": "23M-G"
+        },
+        {
+            "hat_no": "24M",
+            "hat_yon": "D",
+            "hat_adi": "ESKİ MEZİTLİ - ÇAĞDAŞKENT - ŞEHİR HASTANESİ - MEŞOT",
+            "bolge": "MERKEZ",
+            "post": "24M-D"
+        },
+        {
+            "hat_no": "24M",
+            "hat_yon": "G",
+            "hat_adi": "MEŞOT - ŞEHİR HASTANESİ - ÇAĞDAŞKENT - SOLİ - ESKİ MEZİTLİ",
+            "bolge": "MERKEZ",
+            "post": "24M-G"
+        },
+        {
+            "hat_no": "250",
+            "hat_yon": "D",
+            "hat_adi": "ÖZBEK - YENİ HAST. - KALEBURCU",
+            "bolge": "TARSUS",
+            "post": "250-D"
+        },
+        {
+            "hat_no": "250",
+            "hat_yon": "G",
+            "hat_adi": "KALEBURCU - YENİ HAST. ÖZBEK",
+            "bolge": "TARSUS",
+            "post": "250-G"
+        },
+        {
+            "hat_no": "251",
+            "hat_yon": "D",
+            "hat_adi": "YEŞİLKUYU - YEŞİLTEPE- TAŞTİ",
+            "bolge": "TARSUS",
+            "post": "251-D"
+        },
+        {
+            "hat_no": "251",
+            "hat_yon": "G",
+            "hat_adi": "TAŞTİ-YEŞİLTEPE-  YEŞİLKUYU",
+            "bolge": "TARSUS",
+            "post": "251-G"
+        },
+        {
+            "hat_no": "252",
+            "hat_yon": "D",
+            "hat_adi": "HACIHAMZALI-KIZILÇUKUR-TAŞTİ - TUĞRALI KAVŞAK",
+            "bolge": "TARSUS",
+            "post": "252-D"
+        },
+        {
+            "hat_no": "252",
+            "hat_yon": "G",
+            "hat_adi": "TUĞRALI KAVŞAK - TAŞTİ-KIZILÇUKUR-HACIHAMZALI",
+            "bolge": "TARSUS",
+            "post": "252-G"
+        },
+        {
+            "hat_no": "253",
+            "hat_yon": "D",
+            "hat_adi": "KARADİRLİK - TAŞTİ",
+            "bolge": "TARSUS",
+            "post": "253-D"
+        },
+        {
+            "hat_no": "253",
+            "hat_yon": "G",
+            "hat_adi": "TAŞTİ - KARADİRLİK",
+            "bolge": "TARSUS",
+            "post": "253-G"
+        },
+        {
+            "hat_no": "254",
+            "hat_yon": "D",
+            "hat_adi": "CİNKÖY-TAŞÇILI-KİRLİK-SARIVELİ-TAŞTİ",
+            "bolge": "TARSUS",
+            "post": "254-D"
+        },
+        {
+            "hat_no": "254",
+            "hat_yon": "G",
+            "hat_adi": "TAŞTİ  - SARIVELİ-KİRLİK-TAŞÇILI-CİNKÖY",
+            "bolge": "TARSUS",
+            "post": "254-G"
+        },
+        {
+            "hat_no": "257",
+            "hat_yon": "D",
+            "hat_adi": "ÇAKIRLI-ULAŞ-SUCULAR -TARSUS",
+            "bolge": "TARSUS",
+            "post": "257-D"
+        },
+        {
+            "hat_no": "257",
+            "hat_yon": "G",
+            "hat_adi": "TAŞTİ-SUCULAR-ULAŞ-ÇAKIRLI",
+            "bolge": "TARSUS",
+            "post": "257-G"
+        },
+        {
+            "hat_no": "25M",
+            "hat_yon": "D",
+            "hat_adi": "TECE - ÇAVUŞLU - MEŞOT",
+            "bolge": "MERKEZ",
+            "post": "25M-D"
+        },
+        {
+            "hat_no": "25M",
+            "hat_yon": "G",
+            "hat_adi": "MEŞOT - ÇAVUŞLU - TECE",
+            "bolge": "MERKEZ",
+            "post": "25M-G"
+        },
+        {
+            "hat_no": "260",
+            "hat_yon": "D",
+            "hat_adi": "SEBİL - ÇAMLIYAYLA - TAŞTİ",
+            "bolge": "TARSUS",
+            "post": "260-D"
+        },
+        {
+            "hat_no": "260",
+            "hat_yon": "G",
+            "hat_adi": "TAŞTİ- ÇAMLIYAYLA - SEBİL",
+            "bolge": "TARSUS",
+            "post": "260-G"
+        },
+        {
+            "hat_no": "263",
+            "hat_yon": "D",
+            "hat_adi": "ÇAĞ ÜNİVERSİTESİ - KLEOPATRA - TARSUS ÜNİVERSİTESİ",
+            "bolge": "TARSUS",
+            "post": "263-D"
+        },
+        {
+            "hat_no": "263",
+            "hat_yon": "G",
+            "hat_adi": "TARSUS ÜNİVERSİTESİ - KLEOPATRA - ÇAĞ ÜNİVERSİTESİ",
+            "bolge": "TARSUS",
+            "post": "263-G"
+        },
+        {
+            "hat_no": "264",
+            "hat_yon": "D",
+            "hat_adi": "GÜNYURDU - ATGİRMEZ - YENİCE - ÇARDAK",
+            "bolge": "TARSUS",
+            "post": "264-D"
+        },
+        {
+            "hat_no": "264",
+            "hat_yon": "G",
+            "hat_adi": "ÇARDAK - YENİCE- GÜNYURDU",
+            "bolge": "TARSUS",
+            "post": "264-G"
+        },
+        {
+            "hat_no": "265",
+            "hat_yon": "D",
+            "hat_adi": "KULAK - BAHŞİŞ - YEŞİLTEPE - TAŞTİ",
+            "bolge": "TARSUS",
+            "post": "265-D"
+        },
+        {
+            "hat_no": "265",
+            "hat_yon": "G",
+            "hat_adi": "TAŞTİ - YEŞİLTEPE - BAHŞİŞ - KULAK",
+            "bolge": "TARSUS",
+            "post": "265-G"
+        },
+        {
+            "hat_no": "26M",
+            "hat_yon": "D",
+            "hat_adi": "TECE - GMK - BAĞLARBAŞI",
+            "bolge": "MERKEZ",
+            "post": "26M-D"
+        },
+        {
+            "hat_no": "26M",
+            "hat_yon": "G",
+            "hat_adi": "BAĞLARBAŞI - GMK - TECE",
+            "bolge": "MERKEZ",
+            "post": "26M-G"
+        },
+        {
+            "hat_no": "285",
+            "hat_yon": "D",
+            "hat_adi": "KUŞÇULAR - GÖMMECE - YANIKKIŞLA - OTOGAR - TUĞRALI KAVŞAK",
+            "bolge": "TARSUS",
+            "post": "285-D"
+        },
+        {
+            "hat_no": "285",
+            "hat_yon": "G",
+            "hat_adi": "TUĞRALI KAVŞAK - OTOGAR - YANIKKIŞLA - KUŞÇULAR",
+            "bolge": "TARSUS",
+            "post": "285-G"
+        },
+        {
+            "hat_no": "288",
+            "hat_yon": "D",
+            "hat_adi": "SEBİL - ÇAMLIYAYLA - FAKILAR",
+            "bolge": "TARSUS",
+            "post": "288-D"
+        },
+        {
+            "hat_no": "288",
+            "hat_yon": "G",
+            "hat_adi": "ATDAĞI - FAKILAR- ÇAMLIYAYLA - SEBİL",
+            "bolge": "TARSUS",
+            "post": "288-G"
+        },
+        {
+            "hat_no": "28M",
+            "hat_yon": "D",
+            "hat_adi": "MEŞOT - ŞEHİR HASTANESİ - ÜNİVERSİTE - 2. ÇEVRE YOLU - TECE",
+            "bolge": "MERKEZ",
+            "post": "28M-D"
+        },
+        {
+            "hat_no": "28M",
+            "hat_yon": "G",
+            "hat_adi": "TECE - 2. ÇEVRE YOLU - ÜNİVERSİTE - ŞEHİR HASTANESİ - MEŞOT",
+            "bolge": "MERKEZ",
+            "post": "28M-G"
+        },
+        {
+            "hat_no": "291",
+            "hat_yon": "D",
+            "hat_adi": "ATALAR - TAŞTİ",
+            "bolge": "TARSUS",
+            "post": "291-D"
+        },
+        {
+            "hat_no": "291",
+            "hat_yon": "G",
+            "hat_adi": "TAŞTİ- ATALAR",
+            "bolge": "TARSUS",
+            "post": "291-G"
+        },
+        {
+            "hat_no": "29M",
+            "hat_yon": "D",
+            "hat_adi": "MEŞOT - GMK - KIZYURDU - STADYUM",
+            "bolge": "MERKEZ",
+            "post": "29M-D"
+        },
+        {
+            "hat_no": "29M",
+            "hat_yon": "G",
+            "hat_adi": "STADYUM - KIZYURDU - GMK - MEŞOT",
+            "bolge": "MERKEZ",
+            "post": "29M-G"
+        },
+        {
+            "hat_no": "301",
+            "hat_yon": "D",
+            "hat_adi": "İSKELE-OTOGAR",
+            "bolge": "ANAMUR",
+            "post": "301-D"
+        },
+        {
+            "hat_no": "301",
+            "hat_yon": "G",
+            "hat_adi": "OTOGAR- İSKELE",
+            "bolge": "ANAMUR",
+            "post": "301-G"
+        },
+        {
+            "hat_no": "302",
+            "hat_yon": "D",
+            "hat_adi": "TOKİ (ÖREN)-OTOGAR",
+            "bolge": "ANAMUR",
+            "post": "302-D"
+        },
+        {
+            "hat_no": "302",
+            "hat_yon": "G",
+            "hat_adi": "OTOGAR - TOKİ (ÖREN) - ORTAKÖY",
+            "bolge": "ANAMUR",
+            "post": "302-G"
+        },
+        {
+            "hat_no": "303",
+            "hat_yon": "D",
+            "hat_adi": "ALAKÖPRÜ (ORMANCIK)-OTOGAR",
+            "bolge": "ANAMUR",
+            "post": "303-D"
+        },
+        {
+            "hat_no": "303",
+            "hat_yon": "G",
+            "hat_adi": "OTOGAR- ALAKÖPRÜ (ORMANCIK)",
+            "bolge": "ANAMUR",
+            "post": "303-G"
+        },
+        {
+            "hat_no": "305",
+            "hat_yon": "D",
+            "hat_adi": "KIZILALİLER (ALATAŞ)-OTOGAR",
+            "bolge": "ANAMUR",
+            "post": "305-D"
+        },
+        {
+            "hat_no": "305",
+            "hat_yon": "G",
+            "hat_adi": "OTOGAR- KIZILALİLER (ALATAŞ)",
+            "bolge": "ANAMUR",
+            "post": "305-G"
+        },
+        {
+            "hat_no": "306",
+            "hat_yon": "D",
+            "hat_adi": "ÇARIKLAR (EVCİLER)-OTOGAR",
+            "bolge": "ANAMUR",
+            "post": "306-D"
+        },
+        {
+            "hat_no": "306",
+            "hat_yon": "G",
+            "hat_adi": "OTOGAR- ÇARIKLAR (EVCİLER)",
+            "bolge": "ANAMUR",
+            "post": "306-G"
+        },
+        {
+            "hat_no": "307",
+            "hat_yon": "D",
+            "hat_adi": "GÖZCE - TEKMEN - TEKELİ - BOZYAZI - OTOGAR(ANAMUR)",
+            "bolge": "ANAMUR",
+            "post": "307-D"
+        },
+        {
+            "hat_no": "307",
+            "hat_yon": "G",
+            "hat_adi": "OTOGAR(ANAMUR) - BOZYAZI - TEKELİ - TEKMEN - GÖZCE",
+            "bolge": "ANAMUR",
+            "post": "307-G"
+        },
+        {
+            "hat_no": "30M",
+            "hat_yon": "D",
+            "hat_adi": "ESKİ MEZİTLİ - SOLİ - VİRANŞEHİR - MAKİNE İKMAL",
+            "bolge": "MERKEZ",
+            "post": "30M-D"
+        },
+        {
+            "hat_no": "30M",
+            "hat_yon": "G",
+            "hat_adi": "MAKİNE İKMAL - VİRANŞEHİR - SOLİ - ESKİ MEZİTLİ",
+            "bolge": "MERKEZ",
+            "post": "30M-G"
+        },
+        {
+            "hat_no": "31",
+            "hat_yon": "D",
+            "hat_adi": "ESKİ MEZİTLİ - TECE",
+            "bolge": "MERKEZ",
+            "post": "31-D"
+        },
+        {
+            "hat_no": "31",
+            "hat_yon": "G",
+            "hat_adi": "TECE - ESKİ MEZİTLİ",
+            "bolge": "MERKEZ",
+            "post": "31-G"
+        },
+        {
+            "hat_no": "32A",
+            "hat_yon": "D",
+            "hat_adi": "BAĞLARBAŞI - YENİ HAL- ŞEHİR HASTANESİ -MEŞOT",
+            "bolge": "MERKEZ",
+            "post": "32A-D"
+        },
+        {
+            "hat_no": "32A",
+            "hat_yon": "G",
+            "hat_adi": "MEŞOT - ŞEHİR HASTANESİ - YENİ HAL - BAĞLARBAŞI",
+            "bolge": "MERKEZ",
+            "post": "32A-G"
+        },
+        {
+            "hat_no": "32B",
+            "hat_yon": "D",
+            "hat_adi": "BAĞLARBAŞI - YENİ HAL - ÇİFTÇİLER - ŞEHİR HASTANESİ - MEŞOT",
+            "bolge": "MERKEZ",
+            "post": "32B-D"
+        },
+        {
+            "hat_no": "32B",
+            "hat_yon": "G",
+            "hat_adi": "MEŞOT - ŞEHİR HASTANESİ - ÇİFTÇİLER - YENİ HAL - BAĞLARBAŞI",
+            "bolge": "MERKEZ",
+            "post": "32B-G"
+        },
+        {
+            "hat_no": "33M",
+            "hat_yon": "D",
+            "hat_adi": "ESKİ MEZİTLİ - SOLİ - VİRANŞEHİR - GMK - MEŞOT",
+            "bolge": "MERKEZ",
+            "post": "33M-D"
+        },
+        {
+            "hat_no": "33M",
+            "hat_yon": "G",
+            "hat_adi": "MEŞOT - GMK - VİRANŞEHİR - SOLİ - ESKİ MEZİTLİ",
+            "bolge": "MERKEZ",
+            "post": "33M-G"
+        },
+        {
+            "hat_no": "34M",
+            "hat_yon": "D",
+            "hat_adi": "ESKİ MEZİTLİ - SOLİ - 2. ÇEVRE YOLU - MEŞOT",
+            "bolge": "MERKEZ",
+            "post": "34M-D"
+        },
+        {
+            "hat_no": "34M",
+            "hat_yon": "G",
+            "hat_adi": "MEŞOT - 2. ÇEVRE YOLU - SOLİ - ESKİ MEZİTLİ",
+            "bolge": "MERKEZ",
+            "post": "34M-G"
+        },
+        {
+            "hat_no": "36M",
+            "hat_yon": "D",
+            "hat_adi": "ESKİ MEZİTLİ - ÜNİVERSİTE - KARACAİLYAS",
+            "bolge": "MERKEZ",
+            "post": "36M-D"
+        },
+        {
+            "hat_no": "36M",
+            "hat_yon": "G",
+            "hat_adi": "KARACAİLYAS - ÜNİVERSİTE - ESKİ MEZİTLİ",
+            "bolge": "MERKEZ",
+            "post": "36M-G"
+        },
+        {
+            "hat_no": "37M",
+            "hat_yon": "D",
+            "hat_adi": "KUYULUK - ÜNİVERSİTE - MEŞOT",
+            "bolge": "MERKEZ",
+            "post": "37M-D"
+        },
+        {
+            "hat_no": "37M",
+            "hat_yon": "G",
+            "hat_adi": "MEŞOT - ÜNİVERSİTE - KUYULUK",
+            "bolge": "MERKEZ",
+            "post": "37M-G"
+        },
+        {
+            "hat_no": "38M",
+            "hat_yon": "D",
+            "hat_adi": "KUYULUK - 2. ÇEVRE YOLU - KARACAİLYAS",
+            "bolge": "MERKEZ",
+            "post": "38M-D"
+        },
+        {
+            "hat_no": "38M",
+            "hat_yon": "G",
+            "hat_adi": "KARACAİLYAS - 2. ÇEVRE YOLU - KUYULUK",
+            "bolge": "MERKEZ",
+            "post": "38M-G"
+        },
+        {
+            "hat_no": "39",
+            "hat_yon": "D",
+            "hat_adi": "KUYULUK - TECE",
+            "bolge": "MERKEZ",
+            "post": "39-D"
+        },
+        {
+            "hat_no": "39",
+            "hat_yon": "G",
+            "hat_adi": "TECE - KUYULUK",
+            "bolge": "MERKEZ",
+            "post": "39-G"
+        },
+        {
+            "hat_no": "48M",
+            "hat_yon": "D",
+            "hat_adi": "TECE - 2. ÇEVRE YOLU - KARAYOLLARI  - ÇARŞI",
+            "bolge": "MERKEZ",
+            "post": "48M-D"
+        },
+        {
+            "hat_no": "48M",
+            "hat_yon": "G",
+            "hat_adi": "ÇARŞI - KARAYOLLARI - 2. ÇEVRE YOLU - TECE",
+            "bolge": "MERKEZ",
+            "post": "48M-G"
+        },
+        {
+            "hat_no": "502",
+            "hat_yon": "D",
+            "hat_adi": "SARIKAVAK - OTOGAR (GÜLNAR)-HASTANE",
+            "bolge": "GÜLNAR",
+            "post": "502-D"
+        },
+        {
+            "hat_no": "502",
+            "hat_yon": "G",
+            "hat_adi": "HASTANE - OTOGAR (GÜLNAR)- SARIKAVAK",
+            "bolge": "GÜLNAR",
+            "post": "502-G"
+        },
+        {
+            "hat_no": "50M",
+            "hat_yon": "D",
+            "hat_adi": "ESKİ MEZİTLİ - SOLİ - MAKİNE İKMAL",
+            "bolge": "MERKEZ",
+            "post": "50M-D"
+        },
+        {
+            "hat_no": "50M",
+            "hat_yon": "G",
+            "hat_adi": "MAKİNE İKMAL - SOLİ - ESKİ MEZİTLİ",
+            "bolge": "MERKEZ",
+            "post": "50M-G"
+        },
+        {
+            "hat_no": "55M",
+            "hat_yon": "D",
+            "hat_adi": "KUYULUK - ÇARŞI",
+            "bolge": "MERKEZ",
+            "post": "55M-D"
+        },
+        {
+            "hat_no": "55M",
+            "hat_yon": "G",
+            "hat_adi": "ÇARŞI - KUYULUK",
+            "bolge": "MERKEZ",
+            "post": "55M-G"
+        },
+        {
+            "hat_no": "650",
+            "hat_yon": "D",
+            "hat_adi": "TARSUS ÜNİVERSİTESİ - MERSİN KIZ YURDU",
+            "bolge": "MERKEZ",
+            "post": "650-D"
+        },
+        {
+            "hat_no": "650",
+            "hat_yon": "G",
+            "hat_adi": "MERSİN KIZ YURDU - TARSUS ÜNİVERSİTESİ",
+            "bolge": "MERKEZ",
+            "post": "650-G"
+        },
+        {
+            "hat_no": "69M",
+            "hat_yon": "D",
+            "hat_adi": "STADYUM - AMATEM - ÜNİVERSİTE - 2. ÇEVRE YOLU - YEŞİLÇİMEN",
+            "bolge": "MERKEZ",
+            "post": "69M-D"
+        },
+        {
+            "hat_no": "69M",
+            "hat_yon": "G",
+            "hat_adi": "YEŞİLÇİMEN -  2. ÇEVRE YOLU - ÜNİVERSİTE - AMATEM - STADYUM",
+            "bolge": "MERKEZ",
+            "post": "69M-G"
+        },
+        {
+            "hat_no": "73M",
+            "hat_yon": "D",
+            "hat_adi": "MEŞOT - ÇİLEK - ÇAY",
+            "bolge": "MERKEZ",
+            "post": "73M-D"
+        },
+        {
+            "hat_no": "73M",
+            "hat_yon": "G",
+            "hat_adi": "ÇAY - ÇİLEK - MEŞOT",
+            "bolge": "MERKEZ",
+            "post": "73M-G"
+        },
+        {
+            "hat_no": "74M",
+            "hat_yon": "D",
+            "hat_adi": "YAŞLI BAKIM MERKEZİ - AMATEM - TECE",
+            "bolge": "MERKEZ",
+            "post": "74M-D"
+        },
+        {
+            "hat_no": "74M",
+            "hat_yon": "G",
+            "hat_adi": "TECE - AMATEM - YAŞLI BAKIM MERKEZİ",
+            "bolge": "MERKEZ",
+            "post": "74M-G"
+        },
+        {
+            "hat_no": "75B",
+            "hat_yon": "D",
+            "hat_adi": "DORUKKENT - BULUKLU - KARACAİLYAS",
+            "bolge": "MERKEZ",
+            "post": "75B-D"
+        },
+        {
+            "hat_no": "75B",
+            "hat_yon": "G",
+            "hat_adi": "KARACAİLYAS - BULUKLU - DORUKKENT*",
+            "bolge": "MERKEZ",
+            "post": "75B-G"
+        },
+        {
+            "hat_no": "75M",
+            "hat_yon": "D",
+            "hat_adi": "ÇARŞI - BULUKLU - DORUKKENT",
+            "bolge": "KÖYLER",
+            "post": "75M-D"
+        },
+        {
+            "hat_no": "75M",
+            "hat_yon": "G",
+            "hat_adi": "DORUKKENT - BULUKLU - ÇARŞI",
+            "bolge": "KÖYLER",
+            "post": "75M-G"
+        },
+        {
+            "hat_no": "76M",
+            "hat_yon": "D",
+            "hat_adi": "ŞEHİR HASTANESİ - ÜNİVERSİTE - SOLİ - ESKİ MEZİTLİ",
+            "bolge": "MERKEZ",
+            "post": "76M-D"
+        },
+        {
+            "hat_no": "76M",
+            "hat_yon": "G",
+            "hat_adi": "ESKİ MEZİTLİ - SOLİ - ÜNİVERSİTE - ŞEHİR HASTANESİ",
+            "bolge": "MERKEZ",
+            "post": "76M-G"
+        },
+        {
+            "hat_no": "77M",
+            "hat_yon": "D",
+            "hat_adi": "ŞEHİR HASTANESİ - MEŞOT - ÜNİVERSİTE - TECE",
+            "bolge": "MERKEZ",
+            "post": "77M-D"
+        },
+        {
+            "hat_no": "77M",
+            "hat_yon": "G",
+            "hat_adi": "TECE - ÜNİVERSİTE - MEŞOT - ŞEHİR HASTANESİ",
+            "bolge": "MERKEZ",
+            "post": "77M-G"
+        },
+        {
+            "hat_no": "79M",
+            "hat_yon": "D",
+            "hat_adi": "MEŞOT- ŞEHİR HASTANESİ- SİTELER - ŞEVKET SÜMER - TAŞ BİNA",
+            "bolge": "MERKEZ",
+            "post": "79M-D"
+        },
+        {
+            "hat_no": "79M",
+            "hat_yon": "G",
+            "hat_adi": "TAŞ BİNA - ŞEVKET SÜMER - SİTELER - ŞEHİR HASTANESİ - MEŞOT",
+            "bolge": "MERKEZ",
+            "post": "79M-G"
+        },
+        {
+            "hat_no": "80M",
+            "hat_yon": "D",
+            "hat_adi": "ULAŞTIRMA OKULU - ESKİ MEZİTLİ - SOLİ",
+            "bolge": "MERKEZ",
+            "post": "80M-D"
+        },
+        {
+            "hat_no": "80M",
+            "hat_yon": "G",
+            "hat_adi": "SOLİ - ESKİ MEZİTLİ - ULAŞTIRMA OKULU",
+            "bolge": "MERKEZ",
+            "post": "80M-G"
+        }
+    ]
+}

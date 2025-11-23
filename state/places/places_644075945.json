@@ -1,0 +1,42 @@
+[
+    {
+        "id": "pl_29afb37c",
+        "name": "🏠 Ev",
+        "latitude": 36.789462,
+        "longitude": 34.570123,
+        "created_at": "2025-09-23T13:35:28+00:00",
+        "updated_at": "2025-09-23T13:35:28+00:00"
+    },
+    {
+        "id": "pl_bddf305c",
+        "name": "👨‍💼İş",
+        "latitude": 36.7992,
+        "longitude": 34.626758,
+        "created_at": "2025-09-23T13:38:38+00:00",
+        "updated_at": "2025-09-23T13:38:38+00:00"
+    },
+    {
+        "id": "pl_7e34e108",
+        "name": "🏫 Ezgi Üniversite",
+        "latitude": 36.801083,
+        "longitude": 34.634681,
+        "created_at": "2025-09-23T17:21:38+00:00",
+        "updated_at": "2025-09-23T17:21:38+00:00"
+    },
+    {
+        "id": "pl_fa72fc3b",
+        "name": "Göçmen",
+        "latitude": 36.774543,
+        "longitude": 34.571924,
+        "created_at": "2025-09-24T16:02:22+00:00",
+        "updated_at": "2025-09-24T16:02:22+00:00"
+    },
+    {
+        "id": "pl_8254c620",
+        "name": "🏦Taş Bina",
+        "latitude": 36.79523,
+        "longitude": 34.628704,
+        "created_at": "2025-09-24T19:34:12+03:00",
+        "updated_at": "2025-09-24T19:34:12+03:00"
+    }
+]

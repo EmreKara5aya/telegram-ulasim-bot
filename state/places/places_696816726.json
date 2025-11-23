@@ -1,0 +1,18 @@
+[
+    {
+        "id": "pl_b1e02bbe",
+        "name": "Ev",
+        "latitude": 36.789475,
+        "longitude": 34.570002,
+        "created_at": "2025-09-23T13:45:17+00:00",
+        "updated_at": "2025-09-23T13:45:17+00:00"
+    },
+    {
+        "id": "pl_671426cd",
+        "name": "Üniversite",
+        "latitude": 36.801272,
+        "longitude": 34.634579,
+        "created_at": "2025-09-23T13:46:32+00:00",
+        "updated_at": "2025-09-23T13:46:32+00:00"
+    }
+]
